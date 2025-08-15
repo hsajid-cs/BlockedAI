@@ -14,11 +14,6 @@ Whether you're studying, working, or deep into a coding session, BlockedAI keeps
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here to show the extension in action)*
-
----
-
 ## 🛠 Tech Stack
 - **JavaScript** – Core logic and event handling
 - **Chrome Extension API** – Browser integration
